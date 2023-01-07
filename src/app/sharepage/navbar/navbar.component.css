@@ -1,5 +1,13 @@
 .navbar-expand-lg .navbar-nav .nav-link.active-link{
     color: var(--primeira-cor);
-    font-weight: bold;
-    
+    font-weight: bold;    
+}
+a{
+    color: bisque;
+}
+a:hover{  
+    color: yellow;
+}
+*{
+    background-color: rgb(66,60,60);
 }
