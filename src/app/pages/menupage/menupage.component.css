@@ -9,3 +9,11 @@ img{
     height: 500px;
     object-fit: cover;
 }
+a{
+    background-color: rgb(66,60,60);
+    color: bisque;
+}
+a:hover{
+    background-color: rgb(66,60,60);
+    color: yellow;
+}
